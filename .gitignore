@@ -1,0 +1,6 @@
+.env
+servers/node_modules
+servers/credentials.json
+servers/keys.txt
+servers/iot-project-372306-1bca45efa7c6.json
+servers/token.json
